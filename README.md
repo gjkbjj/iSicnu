@@ -6,7 +6,7 @@
 
 从 [Releases](https://github.com/gjkbjj/iSicnu/releases/latest) 下载最新的 `iSicnu-版本号.apk`。
 
-查看 [1.2 更新说明](docs/releases/v1.2.0.md)。
+查看 [1.3 更新说明](docs/releases/v1.3.0.md)。
 
 App 支持自动检测更新，也可以在个人中心点击“检查更新”。从 0.24.0 起，检测到有效正式更新后必须更新，不提供关闭或跳过。同签名版本可覆盖安装并保留本机账号和缓存。
 
